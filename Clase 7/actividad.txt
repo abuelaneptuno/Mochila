@@ -1,0 +1,4 @@
+Distribución de los procesadores: 
+Matilda: Ryzen 5
+Hermano: Intel i3
+Hermana: AMD a8
